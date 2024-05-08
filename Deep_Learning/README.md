@@ -15,7 +15,7 @@ This project evaluates the performance of these algorithms on a churn dataset, t
 This project uses a churn data set on E commerce retail. There are 48 columns including different characteristics of users, and 49358 rows which represent the number of users in the dataset.
 
 ## Report
-The complete report can be found here: [Deep Learning from Scratch](Deep_Learning/Deep_learning.pdf)
+The complete report can be found here: [Deep Learning from Scratch](Deep_learning.pdf)
 
 
 
